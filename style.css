@@ -1,0 +1,35 @@
+.nav {
+
+    background-color: darkslategray;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+}
+
+.nav-links {
+    display: flex;
+    list-style-type: none;
+    width: 30%;
+    justify-content:space-evenly
+
+}
+
+h1 {
+    margin-left: 1%;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+
